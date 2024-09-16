@@ -1,22 +1,29 @@
-# ✅ Week05 Bootcamp2018c Project: Todo List
+# My To-Do List
+This project is a to-do list for users to enter items and remove items once completed.
 
-### Goal: Build a Simple Todo List
+**Link to project:** https://tender-ritchie-caee3b.netlify.com/
 
-### How to submit your code for review:
+![alt tag](screencap.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## How It's Made:
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+**Tech used:** HTML, CSS, JavaScript
+
+Using JavaScript I designed a simple to-do of list items. When the user enters a new to-do list item it is added unto the list. The user has the ability to click on list items as they are completed. When clicked on, the completed list items are gray with a line through. The user is also able to clear the completed items or the entire list of items.
+
+## Optimizations
+
+One feature I would like to add to this project is the ability for users to edit or remove list items as they are displayed.
+
+## Lessons Learned:
+
+Event delegation, the ability to apply formatting and event listeners to items that are not there when the DOM renders.
+
+## Related Projects:
+Take a look at these cool projects that I have in my portfolio:
+
+**Carousel:** https://mystifying-stallman-5862e0.netlify.com/
+
+**Attendance List:** https://sleepy-franklin-b8d685.netlify.com/
+
+**Slot Machine:** https://tender-brahmagupta-7fb0c7.netlify.com/
